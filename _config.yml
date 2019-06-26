@@ -25,6 +25,8 @@ github_username:  peterpakos
 facebook_username: peterpakos
 linkedin_username: peterpakos
 
+google_analytics: UA-142763012-1
+
 # Build settings
 markdown: kramdown
 theme: minima
