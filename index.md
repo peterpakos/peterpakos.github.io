@@ -5,13 +5,11 @@ ttitle: About me
 
 ![my photo](/assets/images/avatar.png)
 
-Hi, I'm Peter and I'm based in Sheffield, UK.
+Hi, I'm Peter and I'm based in Barnsley, United Kingdom.
 
-I hold a Bachelor degree in Computer Science from University of Technology in Szczecin, Poland.
+I hold a Bachelor of Computer Engineering from West Pomeranian University of Technology in Szczecin, Poland.
 
-I currently work as a Senior Infrastructure Engineer for WANdisco where I look after the global IT infrastructure spanning multiple continents.
+I'm passionate about DevOps culture, Open Source Software and coding/scripting - you can find the source code of my latest projects on [GitHub](https://github.com/peterpakos).
 
-I have a deep love for doing things right, networking, automation and DevOps culture.
-
-I'm passionate about Open Source Software and coding/scripting. You can find the source code of my latest projects on [GitHub](https://github.com/peterpakos).
+Outside work, when I'm not spending time actively with my family, you can find me tinkering with new technology in my home lab running off 19" server rack in the garage.
 

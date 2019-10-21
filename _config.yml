@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: PETERPAKOS
 author: Peter Pakos
-email: peter.pakos@wandisco.com
+#email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Have you tried turning it off and on again?
+  "You miss 100% of the shots you don't take." - Wayne Gretzky
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peterpakos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: peterpakos
